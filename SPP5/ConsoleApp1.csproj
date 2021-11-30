@@ -3,6 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>SPP5</AssemblyName>
+    <RootNamespace>SPP5</RootNamespace>
   </PropertyGroup>
 
 </Project>
